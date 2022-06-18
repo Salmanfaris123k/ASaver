@@ -17,7 +17,7 @@ _Dedicated to all Android Developers with_ ❤️.
 
 ***You can Install and test latest ASaver app from below 👇***
 
-[![ASaver App ](https://img.shields.io/badge/Asaver-V2.1-informational?style=for-the-badge&logo=android)](https://github.com/vaibhav158/ASaver/blob/master/app/release/app-release.apk)
+[![ASaver App ](https://img.shields.io/badge/Asaver-V2.1-informational?style=for-the-badge&logo=android)](https://github.com/salmanfaris123k/ASaver/blob/master/app/release/app-release.apk)
 
 ## Features  👓
 
@@ -83,7 +83,7 @@ Have any questions, doubts or want to present your opinions, views? You're alway
 
 ## Contributors
 
-- [Vaibhav Goyal](https://github.com/vaibhav158)
+- [salman faris](https://github.com/salmanfaris123k)
 
 ## License
 
